@@ -1,7 +1,7 @@
     {
-      "versionCode": 5, 
-      "versionName": "1.0.5",
+      "versionCode": 6, 
+      "versionName": "1.0.6",
       "apkUrl": "https://github.com/jonas737/PasswordManagerUpdate/releases/download/update/app-release.apk",
-      "releaseNotes": "• Primeira versão com auto-atualização!\n• Correções de bugs menores.",
+      "releaseNotes": "• Nova funçao nota, e time de criaçao!\n• Correções de bugs menores.",
       "checksum": "..." 
     }
