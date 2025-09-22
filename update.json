@@ -1,6 +1,6 @@
     {
-      "versionCode": 15, 
-      "versionName": "1.13.15",
+      "versionCode": 16, 
+      "versionName": "1.13.16",
       "apkUrl": "https://github.com/jonas737/PasswordManagerUpdate/releases/download/update/app-release.apk",
       "releaseNotes": "• **Novidades:**\n  - Adicionada opção de escolher cores personalizadas para seus itens de senha.\n  - Adicionado botão para redefinir a cor do item para o padrão.\n• **Melhorias:**\n  - Contraste aprimorado do texto e ícones dos cartões, adaptando-se automaticamente à cor de fundo escolhida (claro/escuro).\n  - Melhoria na exibição de mensagens (Snackbar) para evitar sobreposição com os diálogos.\n• **Correções de bugs:**\n  - Corrigido problema de carregamento e exibição de dados no diálogo de edição.\n  - Resolvidas diversas falhas e erros de compilação relacionados à inicialização de variáveis e referências de recursos.",
       "checksum": "232D68423A7DC0092B80FFD9BDC60B950504B86ADC417220984232BCAA189F02" 
