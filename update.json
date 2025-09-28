@@ -1,6 +1,6 @@
     {
-      "versionCode": 18, 
-      "versionName": "1.14.18",
+      "versionCode": 2, 
+      "versionName": "2.2.2",
       "apkUrl": "https://github.com/jonas737/PasswordManagerUpdate/releases/download/update/app-release.apk",
       "releaseNotes": "• Melhorias.\n • Sistema de pin de segurançao para visualizar dados",
       "checksum": "22C01966B83800982B8524BF0D6FF3B8702727C7E5A4C5041C8EF8DC6D8B1045" 
