@@ -1,7 +1,7 @@
     {
-      "versionCode": 3, 
-      "versionName": "3.3.3",
+      "versionCode": 4, 
+      "versionName": "4.4.4",
       "apkUrl": "https://github.com/jonas737/PasswordManagerUpdate/releases/download/update/app-release.apk",
       "releaseNotes": "• Varias Melhorias.",
-      "checksum": "F70B29C5E87C409FD84A99ADA9500BBABF8A7F7E12DDA3D0FC87B251F8606150" 
+      "checksum": "1ffaa22ec683786ed967538c6c21fd3c948e80694f7fed081002f4615fc6f18c" 
     }
