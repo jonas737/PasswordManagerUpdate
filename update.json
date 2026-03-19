@@ -1,6 +1,6 @@
     {
-      "versionCode": 8,
-      "versionName": "8.8.8",
+      "versionCode": 7,
+      "versionName": "7.7.7",
       "apkUrl": "https://github.com/jonas737/PasswordManagerUpdate/releases/download/update/8.apk",
       "releaseNotes": "• Varias Melhorias.\n • Novo sistema de importção de Dados para qualquer conta",
       "checksum": "f28f0d8a7c9294655f59a4a1210fdd556d04e05caa7012d33a4c465e40ac0ec6"
